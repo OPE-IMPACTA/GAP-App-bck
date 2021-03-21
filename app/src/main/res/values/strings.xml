@@ -1,7 +1,7 @@
 <resources>
     <!--login.xml-->
-    <string name="app_name">LMSApp</string>
-    <string name="mensagem_inicial">Bem-vindo ao LMS</string>
+    <string name="app_name">GAPApp</string>
+    <string name="mensagem_inicial">Bem-vindo ao GAP</string>
     <string name="usuario">Usuario</string>
     <string name="texto_usuario">Digite o seu usuario!</string>
     <string name="senha">Senha</string>
@@ -10,4 +10,18 @@
     <string name="action_bar">Buscar</string>
     <string name="action_atualizar">Atualizar</string>
     <string name="action_config">Configurações</string>
+    <string name="botao_relatorios">Relatórios</string>
+    <string name="botao_registrar_atividades">Registrar Atividades</string>
+    <string name="botao_sobre">Sobre</string>
+    <string name="title_activity_relatorio">RelatorioActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_registrar_atividade">RegistrarAtividadeActivity</string>
+    <string name="title_activity_sobre">SobreActivity</string>
+    <string name="registrar_atividades">Registrar Atividades</string>
+    <string name="relatorios">Relatórios</string>
+    <string name="mensagem_sobre">Sobre</string>
 </resources>

@@ -3,6 +3,7 @@ package br.com.fittipvldi.lmsapp
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast
+import kotlinx.android.synthetic.main.activity_tela_inicial.*
 import kotlinx.android.synthetic.main.login.*
 
 class MainActivity : DebugActivity() {
@@ -30,8 +31,6 @@ class MainActivity : DebugActivity() {
             } else {
                 Toast.makeText(this, "Usuário ou senha incorretos", Toast.LENGTH_SHORT).show()
             }
-
-
 
         }
     }
